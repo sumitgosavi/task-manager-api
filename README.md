@@ -1,7 +1,7 @@
 # task-manager-api
 Node.js + Express 
 # Clone the repo
-git clone https://github.com/your-username/task-manager-api.git
+git clone https://github.com/sumitgosavi/task-manager-api.git
 cd task-manager-api
 
 # Install packages
