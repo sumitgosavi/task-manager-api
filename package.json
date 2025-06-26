@@ -1,0 +1,13 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "A simple task manager API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

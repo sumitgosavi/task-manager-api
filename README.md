@@ -1,3 +1,22 @@
+# Task Manager API
+
+A simple Node.js API for managing tasks.
+
+## Project Structure
+
+```
+task-manager-api/
+├── src/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── index.js
+├── .env.example
+├── package.json
+└── README.md
+```
+
 # task-manager-api
 Node.js + Express 
 # Clone the repo
