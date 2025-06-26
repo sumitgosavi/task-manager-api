@@ -26,6 +26,10 @@ cd task-manager-api
 # Install packages
 npm install
 
+npm install express mongoose dotenv
+npm install --save-dev nodemon
+
+
 # Configure MongoDB Atlas:
 # 1. Create free cluster at https://www.mongodb.com/cloud/atlas
 # 2. Create & copy cluster URI to .env (MONGO_URI=...)
